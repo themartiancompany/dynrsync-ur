@@ -7,8 +7,8 @@ _offline="false"
 _git="false"
 _pkg=dynrsync
 pkgname="${_pkg}"
-pkgver="0.0.0.0.0.0.0.0.0.0.0.0.1.1"
-_commit="f0b0710f8f18ea87620e160eb633a14cd6b6b841"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.1.1.1"
+_commit="8f2fcc1a42347fdb4c12cc7a0f39c061b6473e9c"
 pkgrel=1
 _pkgdesc=(
   "Small rsync wrapper."
