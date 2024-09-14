@@ -1,6 +1,6 @@
 pkgbase = dynrsync
 	pkgdesc = Small rsync wrapper.
-	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.1
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.1.1
 	pkgrel = 1
 	url = https://github.com/themartiancompany/dynrsync
 	arch = any
@@ -9,8 +9,8 @@ pkgbase = dynrsync
 	makedepends = make
 	depends = dynssh
 	depends = rsync
-	source = dynrsync-25de140c1ac05721e5c4477f9e630f800396dff6.zip::https://github.com/themartiancompany/dynrsync/archive/25de140c1ac05721e5c4477f9e630f800396dff6.zip
+	source = dynrsync-f0b0710f8f18ea87620e160eb633a14cd6b6b841.zip::https://github.com/themartiancompany/dynrsync/archive/f0b0710f8f18ea87620e160eb633a14cd6b6b841.zip
 	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
-	sha256sums = cb8c898219229a40ac6b930911c7c2721055c1b483bc0a172dd1dfadf5d96ef7
+	sha256sums = 1add80eb50d5cdb0a26a6095473183440b2c994cac2bbf2a8bedb325ec1b69de
 
 pkgname = dynrsync
