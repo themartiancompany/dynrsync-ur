@@ -11,6 +11,6 @@ pkgbase = dynrsync
 	depends = rsync
 	source = dynrsync-8f2fcc1a42347fdb4c12cc7a0f39c061b6473e9c.zip::https://github.com/themartiancompany/dynrsync/archive/8f2fcc1a42347fdb4c12cc7a0f39c061b6473e9c.zip
 	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
-	sha256sums = 1add80eb50d5cdb0a26a6095473183440b2c994cac2bbf2a8bedb325ec1b69de
+	sha256sums = 48c7af62346bf62361a4380f6703c6e32d73101b7cb7748ff1eb52c3ca532425
 
 pkgname = dynrsync
